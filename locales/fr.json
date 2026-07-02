@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "catalog": "Catalogue",
+    "about": "A propos",
+    "contact": "Contact",
+    "quote": "Devis"
+  },
+  "home": {
+    "eyebrow": "Fabricant d emballages papier contact alimentaire",
+    "title": "Jinan Huafeng Printing Co., Ltd.",
+    "intro": "Fabricant de sacs papier pour pop-corn micro-ondes, sacs sans PFAS, sacs pour pork rind et papier kraft ingraissable pour acheteurs export.",
+    "primary": "Voir les produits",
+    "secondary": "Envoyer une demande",
+    "productsTitle": "Emballages snacks micro-ondes et papier ingraissable pour l export",
+    "factoryTitle": "Impression, transformation papier et documents export dans un meme flux",
+    "factoryIntro": "Huafeng produit des emballages papier pour les marques alimentaires qui exigent une production stable, une impression marque privee, des documents matiere et un conditionnement fiable.",
+    "certTitle": "Documents pour audits acheteurs et conformite"
+  },
+  "common": {
+    "featuredProducts": "Produits phares",
+    "factoryStrength": "Capacite usine",
+    "certifications": "Certifications et conformite",
+    "download": "Telecharger",
+    "learnMore": "En savoir plus",
+    "relatedProducts": "Produits associes",
+    "requestQuote": "Demander un devis",
+    "productCatalog": "Catalogue produits",
+    "allProducts": "Tous les produits",
+    "details": "Details",
+    "specifications": "Specifications",
+    "productParameters": "Parametres produit"
+  },
+  "pages": {
+    "productsTitle": "Emballages papier alimentaire pour acheteurs snacks et restauration",
+    "productsIntro": "Choisissez une gamme pour consulter images, specifications, PDFs et options de demande.",
+    "catalogTitle": "Presentations produits et fichiers de conformite",
+    "catalogIntro": "Telechargez les PDFs disponibles pour revue acheteur et discussion projet.",
+    "productPdfs": "PDF produits",
+    "certificateReports": "Certificats et rapports",
+    "aboutEyebrow": "A propos de Huafeng",
+    "aboutIntro": "Fondee en 2011 a Jinan, Shandong, Huafeng se concentre sur l impression d emballages, la production de papier et les emballages alimentaires export.",
+    "aboutTitle": "Production d emballages papier avec experience impression et export",
+    "aboutBody": "L activite comprend l impression d emballages, la production et vente de produits papier, la vente de matieres papier et l import-export.",
+    "contactTitle": "Envoyez votre demande d emballage",
+    "contactIntro": "Indiquez produit, format, quantite, matiere, etat du fichier graphique et marche de destination.",
+    "thankTitle": "Merci pour votre demande",
+    "thankBody": "Votre demande a ete envoyee. Huafeng examinera les details, la quantite et le marche de destination puis repondra avec les prochaines etapes.",
+    "backProducts": "Retour aux produits",
+    "customTitle": "Concu pour les programmes d emballage personnalise",
+    "customIntro": "Partagez format, matiere, fichier d impression, quantite cible et marche de destination. Huafeng peut revoir la structure et preparer un devis pratique."
+  },
+  "form": {
+    "name": "Votre nom",
+    "email": "E-mail",
+    "company": "Societe",
+    "product": "Produit demande",
+    "message": "Indiquez format, quantite, matiere, impression et marche de destination",
+    "submit": "Envoyer la demande"
+  },
+  "footer": {
+    "intro": "Fabricant d emballages papier contact alimentaire specialise dans les sacs snacks micro-ondes, le papier kraft ingraissable, l impression personnalisee et l export.",
+    "copyright": "Site de demandes export."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "products": "Productos",
+    "catalog": "Catalogo",
+    "about": "Empresa",
+    "contact": "Contacto",
+    "quote": "Cotizar"
+  },
+  "home": {
+    "eyebrow": "Fabricante de envases de papel para contacto alimentario",
+    "title": "Jinan Huafeng Printing Co., Ltd.",
+    "intro": "Fabricante de bolsas de papel para palomitas de microondas, bolsas sin PFAS, bolsas para pork rind y papel kraft antigrasa para compradores internacionales.",
+    "primary": "Ver productos",
+    "secondary": "Enviar consulta",
+    "productsTitle": "Envases para snacks de microondas y papel antigrasa para exportacion",
+    "factoryTitle": "Impresion, conversion de papel y documentos de exportacion en un mismo flujo",
+    "factoryIntro": "Huafeng produce envases de papel para marcas de alimentos que necesitan produccion estable, impresion de marca privada, documentacion de materiales y embalaje confiable.",
+    "certTitle": "Documentos para auditorias de compradores y revision de cumplimiento"
+  },
+  "common": {
+    "featuredProducts": "Productos destacados",
+    "factoryStrength": "Capacidad de fabrica",
+    "certifications": "Certificaciones y cumplimiento",
+    "download": "Descargar",
+    "learnMore": "Mas informacion",
+    "relatedProducts": "Productos relacionados",
+    "requestQuote": "Solicitar cotizacion",
+    "productCatalog": "Catalogo de productos",
+    "allProducts": "Todos los productos",
+    "details": "Detalles",
+    "specifications": "Especificaciones",
+    "productParameters": "Parametros del producto"
+  },
+  "pages": {
+    "productsTitle": "Productos de papel alimentario para compradores de snacks y food service",
+    "productsIntro": "Seleccione una linea para revisar imagenes, especificaciones, catalogos PDF y opciones de consulta.",
+    "catalogTitle": "Introducciones de producto y archivos de cumplimiento",
+    "catalogIntro": "Descargue PDFs disponibles para revision de compradores y conversaciones de proyecto.",
+    "productPdfs": "PDF de productos",
+    "certificateReports": "Certificados e informes",
+    "aboutEyebrow": "Sobre Huafeng",
+    "aboutIntro": "Fundada en 2011 en Jinan, Shandong, Huafeng se centra en impresion de envases, produccion de papel y envases alimentarios para exportacion.",
+    "aboutTitle": "Produccion de envases de papel con experiencia en impresion y exportacion",
+    "aboutBody": "El alcance comercial incluye impresion de envases, produccion y venta de productos de papel, venta de materiales de papel e importacion/exportacion.",
+    "contactTitle": "Envie su consulta de empaque",
+    "contactIntro": "Incluya producto, tamano, cantidad, material, estado del arte y mercado de destino.",
+    "thankTitle": "Gracias por su consulta",
+    "thankBody": "Su solicitud fue enviada. Huafeng revisara los detalles, cantidad y mercado de destino y respondera con los proximos pasos.",
+    "backProducts": "Volver a productos",
+    "customTitle": "Preparado para programas de empaque personalizado",
+    "customIntro": "Comparta tamano, material, arte de impresion, cantidad y mercado de destino. Huafeng revisara la estructura y preparara una cotizacion practica."
+  },
+  "form": {
+    "name": "Su nombre",
+    "email": "Correo electronico",
+    "company": "Empresa",
+    "product": "Producto de interes",
+    "message": "Indique tamano, cantidad, material, impresion y mercado de destino",
+    "submit": "Enviar consulta"
+  },
+  "footer": {
+    "intro": "Fabricante de envases de papel para contacto alimentario enfocado en bolsas para snacks de microondas, papel kraft antigrasa, impresion personalizada y suministro de exportacion.",
+    "copyright": "Sitio web de consultas de exportacion."
+  }
+}

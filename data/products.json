@@ -1,0 +1,282 @@
+[
+  {
+    "slug": "microwave-popcorn-bags",
+    "category": "Microwave Food Packaging",
+    "name": {
+      "en": "Microwave Popcorn Paper Bags",
+      "zh": "微波爆米花纸袋",
+      "es": "Bolsas de papel para palomitas de microondas",
+      "fr": "Sacs papier pour pop-corn micro-ondes",
+      "ru": "Microwave Popcorn Paper Bags",
+      "ar": "Microwave Popcorn Paper Bags"
+    },
+    "summary": {
+      "en": "Food-contact microwave popcorn bags for commercial popcorn brands, private-label snacks and co-packers.",
+      "zh": "适用于爆米花品牌、商超自有品牌和代工厂的食品接触级微波爆米花纸袋。",
+      "es": "Bolsas de microondas para marcas de palomitas, marcas privadas y co-packers.",
+      "fr": "Food-contact microwave popcorn bags for commercial popcorn brands, private-label snacks and co-packers.",
+      "ru": "Food-contact microwave popcorn bags for commercial popcorn brands, private-label snacks and co-packers.",
+      "ar": "Food-contact microwave popcorn bags for commercial popcorn brands, private-label snacks and co-packers."
+    },
+    "features": {
+      "en": [
+        "Microwave heating performance",
+        "Oil and grease resistance",
+        "Flexographic printed branding",
+        "Custom sizes and pack counts"
+      ],
+      "zh": [
+        "适配微波加热",
+        "防油防渗",
+        "柔版印刷品牌图案",
+        "支持尺寸和包装数量定制"
+      ],
+      "es": [
+        "Microwave heating performance",
+        "Oil and grease resistance",
+        "Flexographic printed branding",
+        "Custom sizes and pack counts"
+      ],
+      "fr": [
+        "Microwave heating performance",
+        "Oil and grease resistance",
+        "Flexographic printed branding",
+        "Custom sizes and pack counts"
+      ],
+      "ru": [
+        "Microwave heating performance",
+        "Oil and grease resistance",
+        "Flexographic printed branding",
+        "Custom sizes and pack counts"
+      ],
+      "ar": [
+        "Microwave heating performance",
+        "Oil and grease resistance",
+        "Flexographic printed branding",
+        "Custom sizes and pack counts"
+      ]
+    },
+    "specs": {
+      "Material": "Food-grade kraft paper / greaseproof paper / susceptor options",
+      "Printing": "Custom flexographic printing",
+      "Use": "Microwave popcorn, snack packaging",
+      "Customization": "Size, structure, color, logo and carton packing"
+    },
+    "images": [
+      "/images/products/microwave-popcorn-bags-1.webp",
+      "/images/products/microwave-popcorn-bags-2.webp",
+      "/images/products/microwave-popcorn-bags-3.webp"
+    ],
+    "catalog": "/catalogs/microwave-popcorn-bags-product-introduction.pdf"
+  },
+  {
+    "slug": "pfas-free-popcorn-bags",
+    "category": "PFAS-Free Packaging",
+    "name": {
+      "en": "PFAS-Free Microwave Popcorn Bags",
+      "zh": "无氟微波爆米花纸袋",
+      "es": "Bolsas de palomitas sin PFAS para microondas",
+      "fr": "Sacs pop-corn micro-ondes sans PFAS",
+      "ru": "PFAS-Free Microwave Popcorn Bags",
+      "ar": "PFAS-Free Microwave Popcorn Bags"
+    },
+    "summary": {
+      "en": "Fluorine-free microwave popcorn packaging developed for buyers with PFAS compliance requirements.",
+      "zh": "面向有 PFAS/无氟合规要求买家的微波爆米花纸袋解决方案。",
+      "es": "Fluorine-free microwave popcorn packaging developed for buyers with PFAS compliance requirements.",
+      "fr": "Solution de sacs pop-corn micro-ondes sans fluor pour acheteurs avec exigences PFAS.",
+      "ru": "Fluorine-free microwave popcorn packaging developed for buyers with PFAS compliance requirements.",
+      "ar": "Fluorine-free microwave popcorn packaging developed for buyers with PFAS compliance requirements."
+    },
+    "features": {
+      "en": [
+        "PFAS-free direction",
+        "Suitable for export compliance programs",
+        "Oil-resistant paper structure",
+        "Factory quality tracking"
+      ],
+      "zh": [
+        "无氟方向",
+        "适合出口合规项目",
+        "防油纸结构",
+        "工厂质量追踪"
+      ],
+      "es": [
+        "PFAS-free direction",
+        "Suitable for export compliance programs",
+        "Oil-resistant paper structure",
+        "Factory quality tracking"
+      ],
+      "fr": [
+        "PFAS-free direction",
+        "Suitable for export compliance programs",
+        "Oil-resistant paper structure",
+        "Factory quality tracking"
+      ],
+      "ru": [
+        "PFAS-free direction",
+        "Suitable for export compliance programs",
+        "Oil-resistant paper structure",
+        "Factory quality tracking"
+      ],
+      "ar": [
+        "PFAS-free direction",
+        "Suitable for export compliance programs",
+        "Oil-resistant paper structure",
+        "Factory quality tracking"
+      ]
+    },
+    "specs": {
+      "Material": "PFAS-free grease-resistant paper",
+      "Testing": "Fluorine-free test report available",
+      "Use": "Microwave popcorn and hot snack packaging",
+      "Customization": "Private label printing and bag dimensions"
+    },
+    "images": [
+      "/images/products/pfas-free-popcorn-bags-1.webp",
+      "/images/products/pfas-free-popcorn-bags-2.webp",
+      "/images/products/pfas-free-popcorn-bags-3.webp"
+    ],
+    "catalog": "/catalogs/pfas-free-popcorn-bags-product-introduction.pdf"
+  },
+  {
+    "slug": "microwave-pork-rind-bags",
+    "category": "Microwave Food Packaging",
+    "name": {
+      "en": "Microwave Pork Rind Paper Bags",
+      "zh": "微波猪皮纸袋",
+      "es": "Bolsas de papel para pork rind de microondas",
+      "fr": "Sacs papier micro-ondes pour pork rind",
+      "ru": "Microwave Pork Rind Paper Bags",
+      "ar": "Microwave Pork Rind Paper Bags"
+    },
+    "summary": {
+      "en": "Microwave paper bags for pork rind snacks and other heated food applications requiring stable grease control.",
+      "zh": "用于猪皮零食及其他微波加热食品的纸袋，强调稳定防油和加热适配。",
+      "es": "Bolsas para pork rind y otros alimentos calentados que requieren control estable de grasa.",
+      "fr": "Microwave paper bags for pork rind snacks and other heated food applications requiring stable grease control.",
+      "ru": "Microwave paper bags for pork rind snacks and other heated food applications requiring stable grease control.",
+      "ar": "Microwave paper bags for pork rind snacks and other heated food applications requiring stable grease control."
+    },
+    "features": {
+      "en": [
+        "Microwave-ready structure",
+        "Grease barrier performance",
+        "Custom food brand printing",
+        "Batch production support"
+      ],
+      "zh": [
+        "微波适用结构",
+        "防油阻隔性能",
+        "食品品牌定制印刷",
+        "支持批量生产"
+      ],
+      "es": [
+        "Microwave-ready structure",
+        "Grease barrier performance",
+        "Custom food brand printing",
+        "Batch production support"
+      ],
+      "fr": [
+        "Microwave-ready structure",
+        "Grease barrier performance",
+        "Custom food brand printing",
+        "Batch production support"
+      ],
+      "ru": [
+        "Microwave-ready structure",
+        "Grease barrier performance",
+        "Custom food brand printing",
+        "Batch production support"
+      ],
+      "ar": [
+        "Microwave-ready structure",
+        "Grease barrier performance",
+        "Custom food brand printing",
+        "Batch production support"
+      ]
+    },
+    "specs": {
+      "Material": "Food-contact paper with grease barrier",
+      "Use": "Microwave pork rind snacks and heated foods",
+      "Printing": "Custom logo and usage instructions",
+      "Packing": "Bulk cartons or buyer-specified packing"
+    },
+    "images": [
+      "/images/products/microwave-pork-rind-bags-1.webp",
+      "/images/products/microwave-pork-rind-bags-2.webp",
+      "/images/products/microwave-pork-rind-bags-3.webp"
+    ],
+    "catalog": "/catalogs/microwave-pork-rind-bags-product-introduction.pdf"
+  },
+  {
+    "slug": "greaseproof-kraft-paper",
+    "category": "Food Wrapping Paper",
+    "name": {
+      "en": "Greaseproof Kraft Paper",
+      "zh": "防油牛皮纸",
+      "es": "Papel kraft antigrasa",
+      "fr": "Papier kraft ingraissable",
+      "ru": "Greaseproof Kraft Paper",
+      "ar": "Greaseproof Kraft Paper"
+    },
+    "summary": {
+      "en": "Greaseproof kraft paper for food wrapping, bakery, takeaway and industrial food packaging conversion.",
+      "zh": "用于食品包裹、烘焙、外卖和食品包装后道加工的防油牛皮纸。",
+      "es": "Greaseproof kraft paper for food wrapping, bakery, takeaway and industrial food packaging conversion.",
+      "fr": "Papier kraft ingraissable pour emballage alimentaire, boulangerie, takeaway et transformation.",
+      "ru": "Greaseproof kraft paper for food wrapping, bakery, takeaway and industrial food packaging conversion.",
+      "ar": "Greaseproof kraft paper for food wrapping, bakery, takeaway and industrial food packaging conversion."
+    },
+    "features": {
+      "en": [
+        "Oil-resistant surface",
+        "Sheet or roll supply",
+        "Printable for brand packaging",
+        "Food packaging conversion"
+      ],
+      "zh": [
+        "耐油表面",
+        "可供卷筒或片材",
+        "适合品牌包装印刷",
+        "适合食品包装加工"
+      ],
+      "es": [
+        "Oil-resistant surface",
+        "Sheet or roll supply",
+        "Printable for brand packaging",
+        "Food packaging conversion"
+      ],
+      "fr": [
+        "Oil-resistant surface",
+        "Sheet or roll supply",
+        "Printable for brand packaging",
+        "Food packaging conversion"
+      ],
+      "ru": [
+        "Oil-resistant surface",
+        "Sheet or roll supply",
+        "Printable for brand packaging",
+        "Food packaging conversion"
+      ],
+      "ar": [
+        "Oil-resistant surface",
+        "Sheet or roll supply",
+        "Printable for brand packaging",
+        "Food packaging conversion"
+      ]
+    },
+    "specs": {
+      "Material": "Greaseproof kraft paper",
+      "Supply": "Sheets or rolls",
+      "Use": "Food wrapping, tray liner, bakery and snack packaging",
+      "Customization": "GSM, size, printing and packing"
+    },
+    "images": [
+      "/images/products/greaseproof-kraft-paper-1.webp",
+      "/images/products/greaseproof-kraft-paper-2.webp",
+      "/images/products/greaseproof-kraft-paper-3.webp"
+    ],
+    "catalog": "/catalogs/greaseproof-kraft-paper-product-introduction.pdf"
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "首页",
+    "products": "产品",
+    "catalog": "资料下载",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "quote": "获取报价"
+  },
+  "home": {
+    "eyebrow": "食品接触纸包装制造商",
+    "title": "济南华丰印务有限公司",
+    "intro": "面向出口客户生产微波爆米花纸袋、无氟微波爆米花纸袋、微波猪皮纸袋和防油牛皮纸。",
+    "primary": "查看产品",
+    "secondary": "发送询盘",
+    "productsTitle": "面向出口客户的微波零食包装和防油纸",
+    "factoryTitle": "印刷、纸品加工和出口文件支持的一体化工厂流程",
+    "factoryIntro": "华丰为食品品牌提供稳定生产、自有品牌印刷、材料文件和可靠纸箱包装的纸包装产品。",
+    "certTitle": "用于买家审核和合规评估的文件"
+  },
+  "common": {
+    "featuredProducts": "主推产品",
+    "factoryStrength": "工厂实力",
+    "certifications": "证书与合规",
+    "download": "下载",
+    "learnMore": "了解更多",
+    "relatedProducts": "相关产品",
+    "requestQuote": "获取报价",
+    "productCatalog": "产品资料",
+    "allProducts": "全部产品",
+    "details": "详情",
+    "specifications": "规格",
+    "productParameters": "产品参数"
+  },
+  "pages": {
+    "productsTitle": "面向零食和餐饮买家的食品纸包装产品",
+    "productsIntro": "选择产品线，查看图片、实用参数、PDF 资料和询盘入口。",
+    "catalogTitle": "产品介绍与合规文件",
+    "catalogIntro": "下载可用于买家评估和项目沟通的 PDF 文件。",
+    "productPdfs": "产品 PDF",
+    "certificateReports": "证书与检测报告",
+    "aboutEyebrow": "关于华丰",
+    "aboutIntro": "华丰 2011 年成立于山东济南，专注包装印刷、纸制品生产和出口型食品纸包装。",
+    "aboutTitle": "具备印刷和出口经验的纸包装生产工厂",
+    "aboutBody": "公司经营范围包括包装装潢印刷品印刷、纸制品生产销售、纸张材料销售和货物进出口。",
+    "contactTitle": "发送您的包装询盘",
+    "contactIntro": "请提供目标产品、袋型尺寸、数量、材质偏好、设计稿状态和目的市场。",
+    "thankTitle": "感谢您的询盘",
+    "thankBody": "您的需求已提交。华丰会评估产品细节、数量和目的市场，并回复下一步。",
+    "backProducts": "返回产品",
+    "customTitle": "适用于定制包装项目",
+    "customIntro": "请提供尺寸、材质、印刷设计稿、目标数量和目的市场。华丰可评估结构并提供实用报价。"
+  },
+  "form": {
+    "name": "您的姓名",
+    "email": "邮箱",
+    "company": "公司名称",
+    "product": "感兴趣产品",
+    "message": "请填写尺寸、数量、材质、印刷和目标市场",
+    "submit": "发送询盘"
+  },
+  "footer": {
+    "intro": "专注微波零食袋、防油牛皮纸、定制印刷和出口供应的食品接触纸包装制造商。",
+    "copyright": "外贸询盘网站。"
+  }
+}

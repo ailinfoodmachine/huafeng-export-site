@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "catalog": "Catalog",
+    "about": "About",
+    "contact": "Contact",
+    "quote": "Request Quote"
+  },
+  "home": {
+    "eyebrow": "Food-contact paper packaging manufacturer",
+    "title": "Jinan Huafeng Printing Co., Ltd.",
+    "intro": "Manufacturer of microwave popcorn bags, PFAS-free popcorn bags, microwave pork rind bags and greaseproof kraft paper for export buyers.",
+    "primary": "View Products",
+    "secondary": "Send Inquiry",
+    "productsTitle": "Microwave snack packaging and greaseproof paper for export buyers",
+    "factoryTitle": "Printing, paper converting and export documentation in one factory flow",
+    "factoryIntro": "Huafeng produces paper packaging for food brands that need stable production, private-label printing, material documentation and reliable carton packing.",
+    "certTitle": "Documents for buyer audits and compliance review"
+  },
+  "common": {
+    "featuredProducts": "Featured Products",
+    "factoryStrength": "Factory Strength",
+    "certifications": "Certifications & Compliance",
+    "download": "Download",
+    "learnMore": "Learn More",
+    "relatedProducts": "Related Products",
+    "requestQuote": "Request a Quote",
+    "productCatalog": "Product Catalog",
+    "allProducts": "All Products",
+    "details": "Details",
+    "specifications": "Specifications",
+    "productParameters": "Product parameters"
+  },
+  "pages": {
+    "productsTitle": "Food paper packaging products for snack and food service buyers",
+    "productsIntro": "Select a product line to review images, practical specifications, catalog PDFs and inquiry options.",
+    "catalogTitle": "Product introductions and compliance files",
+    "catalogIntro": "Download available PDFs for buyer review and project discussions.",
+    "productPdfs": "Product PDFs",
+    "certificateReports": "Certificates & reports",
+    "aboutEyebrow": "About Huafeng",
+    "aboutIntro": "Established in 2011 in Jinan, Shandong, Huafeng focuses on packaging printing, paper product production and export-oriented food paper packaging.",
+    "aboutTitle": "Paper packaging production with printing and export experience",
+    "aboutBody": "The company business scope includes packaging decoration printing, paper product production and sales, paper material sales and import/export of goods.",
+    "contactTitle": "Send your packaging inquiry",
+    "contactIntro": "Include target product, bag size, quantity, material preference, artwork status and delivery market.",
+    "thankTitle": "Thank you for your inquiry",
+    "thankBody": "Your request has been submitted. Huafeng will review the product details, quantity and destination market, then reply with the next steps.",
+    "backProducts": "Back to Products",
+    "customTitle": "Built for custom packaging programs",
+    "customIntro": "Share your size, material, printing artwork, target quantity and destination market. Huafeng can review the structure and prepare a practical quotation."
+  },
+  "form": {
+    "name": "Your name",
+    "email": "Email",
+    "company": "Company",
+    "product": "Interested product",
+    "message": "Tell us size, quantity, material, printing and destination market",
+    "submit": "Send Inquiry"
+  },
+  "footer": {
+    "intro": "Food-contact paper packaging manufacturer focused on microwave snack bags, greaseproof kraft paper, custom printing and export supply.",
+    "copyright": "Export inquiry website."
+  }
+}
